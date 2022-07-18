@@ -49,7 +49,7 @@ sudo apt install ros-noetic-desktop-full
  **and write**roscore
  
  
- #install ROS2 on Jeston nano
+ # install ROS2 on Jeston nano
  
  
  **Step 1**download Xubunto20.4
