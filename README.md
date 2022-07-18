@@ -4,13 +4,13 @@ for smart method training
 **Step to install ROS on linux**
 
 
-1-download virtualbox
+ **Step 1**download virtualbox
 
 
-2-install ubunto
+**Step 2**install ubunto
 
 
-3-install ROS in ubunto
+**Step 3**install ROS in ubunto
 
 
  -**Setup your sources.list**
