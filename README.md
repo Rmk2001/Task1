@@ -4,13 +4,13 @@ for smart method training
 **Step to install ROS on linux**
 
 
- **Step 1**download virtualbox
+ **Step 1 :**download virtualbox
 
 
-**Step 2**install ubunto
+**Step 2 :**install ubunto
 
 
-**Step 3**install ROS in ubunto
+**Step 3 :**install ROS in ubunto
 
 
  -**Setup your sources.list**
@@ -52,16 +52,16 @@ sudo apt install ros-noetic-desktop-full
  # install ROS2 on Jeston nano
  
  
- **Step 1**download Xubunto20.4
+ **Step 1>>**download Xubunto20.4
  
  
- **Step 2**oppen virtualbox and click <new> 
+ **Step 2>>**oppen virtualbox and click <new> 
  
  
- **Step 3**upload xupunto file
+ **Step 3>>**upload xupunto file
  
  
- **Step 4**cuntinio setting
+ **Step 4>>**cuntinio setting
  
  
  **oppen terminal and install ROS2**
