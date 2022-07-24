@@ -1,5 +1,5 @@
-# Task1
-for smart method training
+# install ROS in linux
+Task 1&2
 
 **Step to install ROS on linux**
 
